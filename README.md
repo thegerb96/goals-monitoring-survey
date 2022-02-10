@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/72451027/153507110-d1f1b218-6353-4cc9-a3c3-08f732d28267.png)
 # Goals Monitoring Survey
 
 ## 1. General Description
@@ -20,3 +19,6 @@ There are also several modes to the script:
 - mode t: test mode, this will generate a year worth of randomized test data.
 
 For all of this the script refers to another script where I stored the goals and questions (survey_content.py). All the files generated are stored in the working directory from which the file is ran.
+
+**Example Output:**
+![image](https://user-images.githubusercontent.com/72451027/153507110-d1f1b218-6353-4cc9-a3c3-08f732d28267.png)
